@@ -1,0 +1,23 @@
+{
+  "name": "node-test-app",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banzayche/node-app-with-openshift.git"
+  },
+  "author": "banzayche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banzayche/node-app-with-openshift/issues"
+  },
+  "homepage": "https://github.com/banzayche/node-app-with-openshift#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
